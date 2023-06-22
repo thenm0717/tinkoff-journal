@@ -2,7 +2,11 @@
 @import 'basic/variables';
 @import 'basic/mixins';
 
-//pages
-@import 'pages/index/styleIndex';
-@import 'pages/streams/styleStreams.scss';
-@import 'pages/tutorial/styleTutorial';
+//index page
+@import 'pages/index/indexTest';
+
+//streams page
+@import 'pages/streams/streamsTest';
+
+//tutorial page
+@import 'pages/tutorial/tutorialTest';
